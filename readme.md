@@ -17,4 +17,4 @@ Cara Menjalankan Project
 - Jalankan project menggunakan script "npm start"
 
 Output
-![alt text](image.png)
+<img width="801" height="615" alt="image" src="https://github.com/user-attachments/assets/1b45ddf2-5919-4d10-9cee-d4241110bc04" />
